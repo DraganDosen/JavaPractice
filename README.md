@@ -1,0 +1,2 @@
+# JavaPractice
+Methods in Java
